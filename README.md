@@ -16,6 +16,7 @@ To clone all projects ```git clone https://github.com/nicogrv/42.git --depth 1 &
 * 💭[Philosophes](https://github.com/nicogrv/9.philosophes)
 ### Five cycle
 * 🔝[Cpp](https://github.com/nicogrv/10.Cpp)
+* 🔌[NetPractice](https://github.com/nicogrv/11.NetPractice.git)
 ### Bonus
 * ☄️[SuperLibft](https://github.com/nicogrv/0.SuperLibft)
 * 🏟️[42Place](https://github.com/nicogrv/Place42)
