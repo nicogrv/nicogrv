@@ -18,7 +18,7 @@ To clone all projects ```git clone https://github.com/nicogrv/42.git --depth 1 &
 * 🔝[Cpp](https://github.com/nicogrv/10.Cpp)
 * 🔌[NetPractice](https://github.com/nicogrv/11.NetPractice.git)
 * 📏[Cub3D](https://github.com/nicogrv/12.Cub3d)
-### Bonus
+### Other projects
 * ☄️[SuperLibft](https://github.com/nicogrv/0.SuperLibft)
 * 🏟️[42Place](https://github.com/nicogrv/Place42)
 * 📭[AutoOrderForm](https://github.com/nicogrv/AutoOrderForm)
