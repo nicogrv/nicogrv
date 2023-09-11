@@ -15,4 +15,3 @@ To clone all projects ```git clone https://github.com/nicogrv/42.git --depth 1 &
 * ☄️[SuperLibft](https://github.com/nicogrv/0.SuperLibft)
 * 🏟️[42Place](https://github.com/nicogrv/Place42)
 * 📭[AutoOrderForm](https://github.com/nicogrv/AutoOrderForm)
-* 🐍[Snake](https://github.com/nicogrv/Snake)
