@@ -8,7 +8,8 @@ To clone all projects ```git clone https://github.com/nicogrv/42.git --depth 1 &
 | 3.  | 🎨 [FdF](https://github.com/nicogrv/5.Fdf) |🔀 [PushSwap](https://github.com/nicogrv/6.PushSwap) | 🔧 [Pipex](https://github.com/nicogrv/7.Pipex)  |
 | 4.  | 🧰 [MiniShell ](https://github.com/nicogrv/8.Minishell) | 💭 [Philosophes](https://github.com/nicogrv/9.philosophes) |
 | 5.  | 🔌 [NetPractice](https://github.com/nicogrv/11.NetPractice.git) | 📏 [Cub3D](https://github.com/nicogrv/12.Cub3d) | 🔝 [Cpp](https://github.com/nicogrv/10.Cpp)    |
-| 6.  | 📦 [Inception](https://github.com/nicogrv/11.NetPractice.git) |
+| 6.  | 📦 [Inception](https://github.com/nicogrv/13.Inception) | 💬 [IRC](https://github.com/nicogrv/14.IRC) |
+| 6.  | ✨ [Transcendence](https://github.com/nicogrv/15.Transcendence) 
 ### Other projects
 * ☄️[SuperLibft](https://github.com/nicogrv/0.SuperLibft)
 * 🏟️[42Place](https://github.com/nicogrv/Place42)
